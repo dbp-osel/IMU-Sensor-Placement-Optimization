@@ -1,3 +1,10 @@
+o	This repository has been archived and is no longer maintained.
+
+o	The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+
+o	It should not be used in production systems.
+
+
 # IMU-Sensor-Placement-Optimization
 Data and code for analysis presented in Sensors journal manuscript titled "Optimization of IMU Sensor Placement for the Measurement of Lower Limb Joint Kinematics" by W. Niswander, W. Wang, and K. Kontson.
 
